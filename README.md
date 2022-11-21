@@ -22,7 +22,7 @@ you can change Limits in line 8 >> _max_allowed_connections = 1 (1 means only on
 
 <b>Note: </b> : in v2 new users will checked automatically
 
-<b>IMPROVED: </b> and blocked users will bee unblocked when connections reduce to _max_allowed_connections
+<b>IMPROVED: </b> and blocked users will be unblocked when connections reduce to _max_allowed_connections
 
 original developer: https://github.com/net-pioneer
 
